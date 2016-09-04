@@ -15,3 +15,6 @@ Generate a token here https://github.com/settings/tokens with repo permissions
 ./github-sync.php sync mrsimonbennett/github-labels  mrsimonbennett/new_project --token="" --force
 ```
 
+## Screenshot
+
+![http://i.imgur.com/fTTTGED.png](http://i.imgur.com/fTTTGED.png)
